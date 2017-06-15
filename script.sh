@@ -1,6 +1,8 @@
 #This is my totally awesome date program
 
 echo "The current date is"
-echo ""
+echo "------------"
 
 date
+
+echo "------------"
