@@ -1,9 +1,15 @@
     * {
-      font-family: Montserrat;
-      color: #444142;
-      background-color: Pink;
+		font-family: Montserrat;
+	 	color: #444142;
+		background-color: Pink;
     }
 
     hr {
-      border-color: #FF337B;
+    	border-color: #FF337B;
+    }
+
+    .company-name {
+		font-weight: bold;
+		font-size: 20px;
+
     }
